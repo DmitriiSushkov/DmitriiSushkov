@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">Привет, меня зовут Дмитрий.</h1>
+<h3 align="center">Это страничка моей маленькой лаборатории по разработке програмированию, и всем что связанно с цифровывми технологиями.</h3>
+
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
