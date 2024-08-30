@@ -34,3 +34,10 @@
 ---
 
 ![](https://komarev.com/ghpvc/?username=DmitriiSushkov&color=green)
+
+
+- uses: Platane/snk@v3
+  with:
+    github_user_name: ${{ DmitriiSushkov }}
+    outputs: |
+      dist/github-snake-dark.svg?palette=github-dark
