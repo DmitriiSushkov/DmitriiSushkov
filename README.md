@@ -31,4 +31,4 @@ Visual Studio 	![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitriiSushkov&show_icons=true&theme=radical)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=DmitriiSushkov&color=green)
